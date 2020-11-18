@@ -1,0 +1,32 @@
+NB: (_1/2) below means that for two-target search task variables with indices 1 and 2 indicate parameters for target 1 and 2 (e.g., targetPos_12 is a position of the first target) or the consecutive answers that observers gave. Also note that target order does not correspond to the answer order, the latter is consecutive, while the former is random. To estimate which answer was given to which target, compare targets' locations with responses. 
+
+NB2: this is the full dataset, some participants were excluded as described in the paper
+
+expName - code name for the experiment
+subjectId - id of the subject
+subjectGender - gender
+subjectAge - age
+session - session number 
+block - block (streak) number
+blockType - block type (prime or probe)
+trial - trial number
+setSize - set size
+targets - condition name
+
+targetOri(_1/2) - targets' orientations
+targetPos(_1/2) - targets' positions (goes from 0 to 35 where 0 is top left corner of a stimuli matrix and 35 is a bottom right corner; the stimuli matrix is filled by column, so item 0 has coordinates of [-8., -8.], item 1 has coordinates of [-8., -4.8.], item 5 - array([-8.,  8.]), and item 6 -  [-4.8, -8. ])
+targetRow_1/2, targetCol_1/2 - targets' rows and columns (computed from targetPos)
+
+distrMean - mean of distractor orientations
+prevDistrMean - mean of distractor orientations on previous block
+dtype - distractor distribution type (norm - Gaussian, bimod - bimodal). 
+dsd - distractor distribution SD (note that distractors distributions were restricted, so this SD is not the real SD; see the paper for details)
+targetDist(_1/2) - distance (in orientation) between targetOri and distrMean
+t_dist_to_prev_d(_1/2) - distance (in orientation) between targetOri and distrMean of the previous streak
+answer(_1/2) - response letter (in two-target search "t", "r","f", and "g" correspond to upper-right, upper-left, lower-left, and lower right quadrants in accordance with their locations on a standard PC keyboard; in single-target searach, "i" is for upper rows, "j" is for lower rows)
+rt(_1/2) - response time
+correct(_1/2) - accuracy
+totCorrect - sum of correct_1 and correct_2 for two-target search
+d_ori_0 ... d_ori_35 - orientation of specific distractors (see note on targetPos)
+stim_pos_x_N, stim_pos_y_N – x- and y-coordinate of stimulus N (not recorded for the single-target search study)
+

@@ -1,0 +1,29 @@
+Copyright (c) 2018 Chetverikov, Campana, Kristjansson
+
+----------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person 
+obtaining, using and/or copying the data and associated 
+documentation (the "Materials"), to use, copy, modify, merge, 
+publish, distribute, sublicense the Materials and to permit 
+persons to whom the Materials are furnished to do so, subject to the following conditions:
+
+When using these Materials, please cite the original paper: 
+Chetverikov, A., Campana, G., & Kristjánsson, Á. (Unpublished). Probabilistic rejection templates in visual working memory. 
+
+Additionally, please cite the data: 
+Chetverikov, A., Kristjansson, A., & Campana, G. (2018, June 13). Datasets and scripts: Probabilistic working memory templates guide visual attention. Retrieved from osf.io/rg2h8
+
+The above copyright notice, this permission notice, and the following 
+disclaimer shall be included in all copies or substantial portions 
+of the Materials.
+
+THIS MATERIALS IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------
+If you have the questions contact me at andrey@hi.is or andrey.a.chetverikov@gmail.com.
