@@ -8,7 +8,7 @@ publish, distribute, sublicense the Materials and to permit
 persons to whom the Materials are furnished to do so, subject to the following conditions:
 
 When using these Materials, please cite the original paper: 
-Chetverikov, A., Campana, G., & Kristjánsson, Á. (Unpublished). Probabilistic rejection templates in visual working memory. 
+Chetverikov, A., Campana, G., & Kristjánsson, Á. (2020). Probabilistic rejection templates in visual working memory. Cognition, 196, pp. 104075.
 
 Additionally, please cite the data: 
 Chetverikov, A., Kristjansson, A., & Campana, G. (2018, June 13). Datasets and scripts: Probabilistic working memory templates guide visual attention. Retrieved from osf.io/rg2h8
